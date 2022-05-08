@@ -5,3 +5,5 @@ Constructs and outputs Markov Chain text based on text files
 Download all contents in this repo.
 
 Run the program TextGen2 to accept user input and set up the Markov Chain.
+
+DebateBot can be operated in the same way.
