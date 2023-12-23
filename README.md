@@ -1,5 +1,5 @@
 # Markov-Chain
-Constructs and outputs Markov Chain text based on text files
+Constructs and outputs text using a Markov chain model based on text files
 
 # How to Use:
 Download all contents in this repo.
